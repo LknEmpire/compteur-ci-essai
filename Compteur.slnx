@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/src/">
+    <Project Path="src/Compteur.Logique/Compteur.Logique.csproj" />
+    <Project Path="src/Compteur.App/Compteur.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Compteur.Logique.Tests/Compteur.Logique.Tests.csproj" />
+  </Folder>
+</Solution>

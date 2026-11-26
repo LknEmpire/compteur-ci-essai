@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Compteur (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Compteur (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
