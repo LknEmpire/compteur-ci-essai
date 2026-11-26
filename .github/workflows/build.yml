@@ -26,4 +26,4 @@ jobs:
         run: dotnet test tests/Compteur.Logique.Tests/Compteur.Logique.Tests.csproj --configuration Release
 
       - name: Build de l'app WinUI
-        run: dotnet build src/Compteur.App/Compteur.csproj --configuration Release -p:Platform=x64
+        run: dotnet build src/Compteur.App/Compteur.csproj --configuration Debug -p:Platform=x64
